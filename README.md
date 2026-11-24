@@ -1,10 +1,11 @@
+Estudiante de Comunicación · Contenido digital y desarrollo web
 
+Ahora trabajo en **[Sonora](https://github.com/adriandiazserna/Sonora)**, un reproductor de música para Windows.
 
-Estudiante de Comunicación · Desarrollo web y apps de escritorio
+Portafolio: **[adriandiazserna.github.io](https://adriandiazserna.github.io)**
 
- Ahora trabajo en **[Sonora](https://github.com/adriandiazserna/Sonora)**, un reproductor de música para Windows.
- https://adriandiazserna.github.io
 Busco trabajo remoto en contenido digital, redes sociales, marketing y desarrollo web.
+
 Veracruz, México
 
 ### Proyectos destacados
