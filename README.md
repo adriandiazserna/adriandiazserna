@@ -1,10 +1,11 @@
-## Hola, soy Adrián 👋
 
-Estudiante de Comunicación en Veracruz, México. Me gusta llevar las ideas de marca a la web y construir herramientas que resuelvan problemas que yo mismo tengo.
 
-- 🎧 Ahora trabajo en **[Sonora](https://github.com/adriandiazserna/Sonora)**, un reproductor de música para Windows.
-- 🌐 Mi portafolio con 13 proyectos: **[adriandiazserna.github.io](https://adriandiazserna.github.io)**
-- 💼 Busco trabajo remoto en contenido digital, redes sociales, marketing y desarrollo web.
+Estudiante de Comunicación · Desarrollo web y apps de escritorio
+
+ Ahora trabajo en **[Sonora](https://github.com/adriandiazserna/Sonora)**, un reproductor de música para Windows.
+ https://adriandiazserna.github.io
+Busco trabajo remoto en contenido digital, redes sociales, marketing y desarrollo web.
+Veracruz, México
 
 ### Proyectos destacados
 
